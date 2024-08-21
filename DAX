@@ -1,0 +1,9 @@
+
+SUM() - Measure = SUM('table'[column])
+CALCULATE() - CALCULATE(<expression>[,<filter1>[,<filter2>[,...]])
+FILTER() - FILTER(<table>,<filter>)
+RELATED() - Fetches related data from another table.
+ALL() - removes filters to return all possible values in a column or table.
+RANKX() - ranks values within a specified column.
+
+
